@@ -51,3 +51,8 @@ This project provides apps for other artists including [Lotus](//lotus.alecgorge
 [![](/img/screenshots/ipad/Screenshot 2014.04.30 17.05.40.png)](/img/screenshots/ipad/Screenshot 2014.04.30 17.05.40.png)
 [![](/img/screenshots/ipad/Screenshot 2014.04.30 17.06.39.png)](/img/screenshots/ipad/Screenshot 2014.04.30 17.06.39.png)
 </div>
+
+## thanks
+
+* Thanks to the Grateful Dead for all the music!
+* A special thanks to Taylor for letting me use her iPhone 4S to catch some bugs I couldn't reproduce.
