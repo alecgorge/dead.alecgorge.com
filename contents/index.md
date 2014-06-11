@@ -30,6 +30,18 @@ Listen to the Dead is part of the [iguana](http://github.com/alecgorge/iguana) f
 
 This project provides apps for other artists including [Lotus](//lotus.alecgorge.com), [Phish](//phish.alecgorge.com), [Marco Benevento](//marco.alecgorge.com), and [Umphrey's McGee](//umps.alecgorge.com).
 
+## selected 5-star reviews
+
+> I rarely write app reviews, but with the recent update I felt compelled to share with people how truly amazing this app is. It is beautiful, functional, well thought out and on and on. If you like the Dead, it is a must have, if you just want to see what a music streaming app should be, download it to check it out.
+>
+> &mdash; <cite>lowlightevolution</cite>
+
+------
+
+> Love this app! Can't say that enough. I've had issues with other music streaming apps (I'm looking at you, livephish!) and this is a superior product. I love the Scrobbler integration and especially the fact that it runs in the background while I perform other tasks. A++! No joke...
+> 
+> &mdash; <cite>jemaurer</cite>
+
 ## screenshots
 
 ### iPhone
