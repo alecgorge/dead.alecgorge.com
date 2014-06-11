@@ -6,7 +6,8 @@
   "main": "index.js",
   "scripts": {
     "preview": "./node_modules/.bin/wintersmith preview",
-    "build": "./node_modules/.bin/wintersmith build -o www"
+    "build": "./node_modules/.bin/wintersmith build -o www",
+    "run": "./node_modules/.bin/wintersmith build -o www"
   },
   "repository": {
     "type": "git",
