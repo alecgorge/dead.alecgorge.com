@@ -35,21 +35,21 @@ This project provides apps for other artists including [Lotus](//lotus.alecgorge
 ### iPhone
 
 <div class="screenshots">
-[![](/img/screenshots/iphone5/iOS Simulator Screen shot Apr 20, 2014, 11.04.54 AM.png)](/img/screenshots/iphone5/iOS Simulator Screen shot Apr 20, 2014, 11.04.54 AM.png)
-[![](/img/screenshots/iphone5/iOS Simulator Screen shot Apr 20, 2014, 11.05.17 AM.png)](/img/screenshots/iphone5/iOS Simulator Screen shot Apr 20, 2014, 11.05.17 AM.png)
-[![](/img/screenshots/iphone5/iOS Simulator Screen shot Apr 20, 2014, 11.05.58 AM.png)](/img/screenshots/iphone5/iOS Simulator Screen shot Apr 20, 2014, 11.05.58 AM.png)
-[![](/img/screenshots/iphone5/iOS Simulator Screen shot Apr 20, 2014, 11.06.54 AM.png)](/img/screenshots/iphone5/iOS Simulator Screen shot Apr 20, 2014, 11.06.54 AM.png)
-[![](/img/screenshots/iphone5/iOS Simulator Screen shot Apr 20, 2014, 11.08.20 AM.png)](/img/screenshots/iphone5/iOS Simulator Screen shot Apr 20, 2014, 11.08.20 AM.png)
+[![](/img/screenshots/iphone5/_thumbs/iOS Simulator Screen shot Apr 20, 2014, 11.04.54 AM.jpg)](/img/screenshots/iphone5/iOS Simulator Screen shot Apr 20, 2014, 11.04.54 AM.png)
+[![](/img/screenshots/iphone5/_thumbs/iOS Simulator Screen shot Apr 20, 2014, 11.05.17 AM.jpg)](/img/screenshots/iphone5/iOS Simulator Screen shot Apr 20, 2014, 11.05.17 AM.png)
+[![](/img/screenshots/iphone5/_thumbs/iOS Simulator Screen shot Apr 20, 2014, 11.05.58 AM.jpg)](/img/screenshots/iphone5/iOS Simulator Screen shot Apr 20, 2014, 11.05.58 AM.png)
+[![](/img/screenshots/iphone5/_thumbs/iOS Simulator Screen shot Apr 20, 2014, 11.06.54 AM.jpg)](/img/screenshots/iphone5/iOS Simulator Screen shot Apr 20, 2014, 11.06.54 AM.png)
+[![](/img/screenshots/iphone5/_thumbs/iOS Simulator Screen shot Apr 20, 2014, 11.08.20 AM.jpg)](/img/screenshots/iphone5/iOS Simulator Screen shot Apr 20, 2014, 11.08.20 AM.png)
 </div>
 
 ### iPad
 
 <div class="screenshots">
-[![](/img/screenshots/ipad/Screenshot 2014.04.30 17.05.14.png)](/img/screenshots/ipad/Screenshot 2014.04.30 17.05.14.png)
-[![](/img/screenshots/ipad/Screenshot 2014.04.30 17.05.23.png)](/img/screenshots/ipad/Screenshot 2014.04.30 17.05.23.png)
-[![](/img/screenshots/ipad/Screenshot 2014.04.30 17.05.27.png)](/img/screenshots/ipad/Screenshot 2014.04.30 17.05.27.png)
-[![](/img/screenshots/ipad/Screenshot 2014.04.30 17.05.40.png)](/img/screenshots/ipad/Screenshot 2014.04.30 17.05.40.png)
-[![](/img/screenshots/ipad/Screenshot 2014.04.30 17.06.39.png)](/img/screenshots/ipad/Screenshot 2014.04.30 17.06.39.png)
+[![](/img/screenshots/ipad/_thumbs/Screenshot 2014.04.30 17.05.14.jpg)](/img/screenshots/ipad/Screenshot 2014.04.30 17.05.14.png)
+[![](/img/screenshots/ipad/_thumbs/Screenshot 2014.04.30 17.05.23.jpg)](/img/screenshots/ipad/Screenshot 2014.04.30 17.05.23.png)
+[![](/img/screenshots/ipad/_thumbs/Screenshot 2014.04.30 17.05.27.jpg)](/img/screenshots/ipad/Screenshot 2014.04.30 17.05.27.png)
+[![](/img/screenshots/ipad/_thumbs/Screenshot 2014.04.30 17.05.40.jpg)](/img/screenshots/ipad/Screenshot 2014.04.30 17.05.40.png)
+[![](/img/screenshots/ipad/_thumbs/Screenshot 2014.04.30 17.06.39.jpg)](/img/screenshots/ipad/Screenshot 2014.04.30 17.06.39.png)
 </div>
 
 ## thanks
