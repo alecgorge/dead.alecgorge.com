@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+apt-get install software-properties-common -y
+add-apt-repository ppa:chris-lea/node.js -y
+apt-get update
+apt-get install nodejs -y
+
+npm install
