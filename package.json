@@ -7,7 +7,7 @@
   "scripts": {
     "preview": "./node_modules/.bin/wintersmith preview",
     "build": "./node_modules/.bin/wintersmith build -o www",
-    "run": "touch .nginx && ./node_modules/.bin/wintersmith build -o www"
+    "start": "touch .nginx && ./node_modules/.bin/wintersmith build -o www"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
     "wintersmith-stylus": "bendrucker/wintersmith-stylus",
     "wintersmith": "~2.0.10",
     "coffee-script": "~1.7.1"
+  },
+  "engines": {
+    "node": "~0.10.26"
   }
 }
