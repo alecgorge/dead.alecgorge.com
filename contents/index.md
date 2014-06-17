@@ -28,7 +28,7 @@ Speaking of GitHub, this app is [open source and available on GitHub](https://gi
 
 Listen to the Dead is part of the [iguana](http://github.com/alecgorge/iguana) for [iOS](http://github.com/alecgorge/iguana-ios) project.
 
-This project provides apps for other artists including [Lotus](//lotus.alecgorge.com), [Phish](//phish.alecgorge.com), [Marco Benevento](//marco.alecgorge.com), and [Umphrey's McGee](//umps.alecgorge.com).
+This project provides apps for other artists including [Lotus](//lotus.alecgorge.com), [Phish](//phishapp.alecgorge.com), [Marco Benevento](//marco.alecgorge.com), and [Umphrey's McGee](//umps.alecgorge.com).
 
 ## selected 5-star reviews
 
